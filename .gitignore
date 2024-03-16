@@ -3,7 +3,5 @@
 
 # Build files
 **/build
-**/public
-
 # Global .env file
 .env
